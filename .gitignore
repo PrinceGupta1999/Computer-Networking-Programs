@@ -1,0 +1,6 @@
+simulations/*/*
+!simulations/*/*.cc
+!simulations/*/*.h
+!simulations/*/*.ini
+!simulations/*/*.ned
+!simulations/*/*.msg
