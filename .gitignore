@@ -1,4 +1,6 @@
 simulations/*/*
+.metadata/*
+inet/*
 !simulations/*/*.cc
 !simulations/*/*.h
 !simulations/*/*.ini
