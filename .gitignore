@@ -1,6 +1,7 @@
 simulations/*/*
 .metadata/*
 inet/*
+.vscode/*
 !simulations/*/*.cc
 !simulations/*/*.h
 !simulations/*/*.ini
